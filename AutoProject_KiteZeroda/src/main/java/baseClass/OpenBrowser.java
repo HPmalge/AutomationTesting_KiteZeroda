@@ -17,6 +17,8 @@ public class OpenBrowser {
 		 
 		 driver.get(url);
 		 
+		 
+		 
 		 Thread.sleep(2000);
 	}
 
